@@ -1,0 +1,6 @@
+"caluculate water runs off ftrom a rain storm"
+
+calculate the dimensions of the roof and convert them to inches: 50' x 20' roof is 600" x 240"). 
+Multiply the roof dimensions by the number of inches of rainfall: 600" x 240" x 1" = 144,000 
+Divide that result by 231 to get the number of gallons:144,000/231 = 623.38)
+Display the output

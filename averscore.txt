@@ -1,0 +1,5 @@
+"calculate average score"
+
+Prompt user for ten exam scores
+Calculate averagescore = add all ten scores then divide them by ten
+Display averagescore
