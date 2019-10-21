@@ -1,0 +1,32 @@
+"sale tax valdation"
+
+PseudoCode 
+
+
+promt customer’s for name, a purchase amount and a tax code
+
+tax code has been validated :
+  if 0  tax exempt (0%):
+     compute the sales tax and the total amount 
+  else state sales tax only (3%):
+     compute the sales tax and the total amount 
+  else federal and state sales tax (5%):
+     compute the sales tax and the total amount 
+  else special sales tax (7%):
+   compute the sales tax and the total amount 
+endif:
+
+Out put customer’s name, purchase amount, sales tax and total amount due.
+
+
+Input	                  Processing	                                         Output
+ customer’s name,         tax exempt (0%)                                       customer’s name
+ purchase amount,         state sales tax only (3%)                             purchase amount
+ tax code                 federal and state sales tax (5%)                       sales tax
+                          pecial sales tax (7%)                                 total amount due
+                          compute the sales tax and the total amount 
+
+
+control structures required are:
+first sequence, 
+then selection
